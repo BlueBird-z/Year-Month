@@ -1,1 +1,1 @@
-Numbers of days in Month
+Number of days in Month
